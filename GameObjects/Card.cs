@@ -17,10 +17,10 @@ namespace GameObjects {
     /// Ace, King, Queen etc., and a suit value i.e. Clubs, Diamonds, Hearts and Spades.
     /// 
     /// Student Name: Salman
-    /// Student ID: n10057684
+    /// 
     /// 
     /// Student Name: Julieth
-    /// Student ID: n9623540
+    /// 
     /// 
     /// </summary>
 

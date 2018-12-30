@@ -13,10 +13,10 @@ namespace GameObjects {
     /// Note: Cards dealt to Players is represented in the Hand Class, not in CardPile.
     /// 
     /// Student Name: Salman
-    /// Student ID: n10057684
+    /// 
     /// 
     /// Student Name: Julieth
-    /// Student ID: n9623540
+    /// 
     /// 
     /// </summary>
     /// 

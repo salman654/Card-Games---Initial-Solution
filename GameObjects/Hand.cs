@@ -12,10 +12,10 @@ namespace GameObjects {
     /// Hand class represents the Playing Cards that are dealt to a Player in a card game.
     /// 
     /// Student Name: Salman
-    /// Student ID: n10057684
+    /// 
     /// 
     /// Student Name: Julieth
-    /// Student ID: n9623540
+    /// 
     /// 
     /// </summary>
     
