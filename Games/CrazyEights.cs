@@ -13,10 +13,10 @@ namespace Games {
     /// to the rules of the Card Game.
     /// 
     /// Student Name: Salman
-    /// Student ID: n10057684
+    /// 
     /// 
     /// Student Name: Julieth
-    /// Student ID: n9623540
+    /// 
     /// 
     /// </summary>
     /// 
